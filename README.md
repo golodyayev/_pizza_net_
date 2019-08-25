@@ -21,6 +21,4 @@ The story of one model that generates kitchen recipes.
   – /ingredients_sematic.ipynb/ word2vec and ingredients correlation story
   
   – /topic_modeling.ipynb/ recipe clasterization with NLP
-  
-  – 
 
